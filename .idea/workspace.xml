@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8e411065-6932-45a3-a1a1-860d800358f5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Algorithms/SingleNum.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python/howtocall.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithms/HappyNum.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -55,11 +54,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Algorithms/SingleNum.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+            <state relative-caret-position="323">
+              <caret line="19" column="21" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Algorithms/HappyNum.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="377">
+              <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
             </state>
           </provider>
         </entry>
@@ -84,6 +92,7 @@
         <option value="$PROJECT_DIR$/Python/howtocall.py" />
         <option value="$PROJECT_DIR$/Python/FooSpace.py" />
         <option value="$PROJECT_DIR$/Algorithms/SingleNum.py" />
+        <option value="$PROJECT_DIR$/Algorithms/HappyNum.py" />
       </list>
     </option>
   </component>
@@ -103,6 +112,11 @@
             <path>
               <item name="Coding_Resources" type="b2602c69:ProjectViewProjectNode" />
               <item name="Coding_Resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Coding_Resources" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Coding_Resources" type="462c0819:PsiDirectoryNode" />
+              <item name="Algorithms" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -150,7 +164,7 @@
     <frame x="0" y="23" width="1440" height="797" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27292264" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27722064" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -206,8 +220,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Algorithms/SingleNum.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+        <state relative-caret-position="323">
+          <caret line="19" column="21" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algorithms/HappyNum.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="377">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
         </state>
       </provider>
     </entry>
